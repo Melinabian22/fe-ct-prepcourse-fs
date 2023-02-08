@@ -1,0 +1,6 @@
+function multiplicarATodsPorDos(num) {
+    for( var i = 0; i< num.length; i++) {
+var i = (num [i] * 2);
+}
+return multiplicarATodsPorDos
+}
